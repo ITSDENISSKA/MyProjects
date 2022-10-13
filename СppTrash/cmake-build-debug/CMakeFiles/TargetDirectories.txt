@@ -1,0 +1,3 @@
+C:/Users/fotie/Desktop/MyProjects/СppTrash/cmake-build-debug/CMakeFiles/ppTrash.dir
+C:/Users/fotie/Desktop/MyProjects/СppTrash/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fotie/Desktop/MyProjects/СppTrash/cmake-build-debug/CMakeFiles/rebuild_cache.dir
